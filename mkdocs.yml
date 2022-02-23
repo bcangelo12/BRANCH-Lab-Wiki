@@ -1,0 +1,13 @@
+site_name: BRANCH Lab Wiki
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - Data Intake: intake.md
+    - Storage and Structure: storage.md
+    - QC and Preprocessing: qc_preproc.md
+    - Analysis - Structural: structural.md
+    - Analysis - Functional: functional.md
+    - Analysis - Diffusion Weighted Imaging: dti.md
+    - Misc - Cloud Storage: osf.md
+
+theme: readthedocs
