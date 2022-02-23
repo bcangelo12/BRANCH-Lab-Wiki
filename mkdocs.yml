@@ -1,3 +1,4 @@
+site_name: BRANCH Lab Wiki
 nav:
     - Home: index.md
     - Data Intake: intake.md
